@@ -32,7 +32,7 @@ print("no. of column",len(df.axes[0]))
 print("no. of rows",len(df.axes[1])
 ```
 ## OUTPUT:
-![output](https://github.com/Hemapriya-2004/Read-from-CSV/blob/main/h3.PNG/raw=true)
+![output](https://github.com/Hemapriya-2004/Read-from-CSV/blob/main/h3.PNG?raw=true)
 
 ## RESULT:
 Thus the program runs successfully
