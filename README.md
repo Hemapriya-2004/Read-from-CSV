@@ -21,7 +21,8 @@ increase the maximum number of rows to display the entire data frame
 
 ## PROGRAM:
 ##Developed by : R.Hema Priya
-##Reg>no : 21004884
+
+##Reg.no : 21004884
 ```python
 import pandas as pd
 df = pd.read_csv('data.csv')
